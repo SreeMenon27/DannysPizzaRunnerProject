@@ -1,7 +1,7 @@
 # DannysPizzaRunnerProject
 
 Solution to Case Study #2 - Pizza Runner, 
-https://8weeksqlchallenge.com/case-study-2/
+https://8weeksqlchallenge.com/case-study-2/   using **PostgreSQL** (on DB Fiddle)
 
 Analyzing Pizza Metrics, Runner and Customer Experience, Ingredient Optimization etc.
 
